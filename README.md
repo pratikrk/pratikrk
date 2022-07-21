@@ -21,8 +21,8 @@
 <br /><br />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=pratikrk&color=brightgreen)
-![Linkedin Badge](https://img.shields.io/badge/-pratikrk-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pratikrk/)
-![Gmail Badge](https://img.shields.io/badge/-pratikrk-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:pratikrk@gmail.com)
-![Instagram Badge](https://img.shields.io/badge/-@_d_specialist-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/_d_specialist/)
-![Website Badge](https://img.shields.io/badge/-harshgoel.me-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://harshgoel.me)
-![Twitter Badge](https://img.shields.io/badge/-@pratikrk-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/pratikrk)
+![Linkedin Badge](https://img.shields.io/badge/-pratikrk-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pratik-rathod-10a522208/)
+![Gmail Badge](https://img.shields.io/badge/-pratikrk-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:pratikrathod3954@gmail.com)
+![Instagram Badge](https://img.shields.io/badge/-@_d_specialist-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/pratik_rathod_1/)
+![Website Badge](https://img.shields.io/badge/-harshgoel.me-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://pratikrk.github.io/portfolio/)
+![Twitter Badge](https://img.shields.io/badge/-@pratikrk-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/cyph3r_s)
