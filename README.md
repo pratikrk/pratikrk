@@ -1,3 +1,5 @@
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
+
 ## Hi there 👋
 
 ![Pratik's github stats](https://github-readme-stats.vercel.app/api?username=pratikrk&count_private=true&show_icons=true&theme=dark)
