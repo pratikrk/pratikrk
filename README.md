@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=pratikrk&count_private=true&show_icons=true&theme=dark)
+![Pratik's github stats](https://github-readme-stats.vercel.app/api?username=pratikrk&count_private=true&show_icons=true&theme=dark)
 
 ### Languages and Tools:
 
@@ -20,9 +20,9 @@
 
 <br /><br />
 
-![Profile Views](https://komarev.com/ghpvc/?username=harshgoel05&color=brightgreen)
-![Linkedin Badge](https://img.shields.io/badge/-harshgoel05-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshgoel05/)
-![Gmail Badge](https://img.shields.io/badge/-harshgoel05-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:harshgoel05@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=pratikrk&color=brightgreen)
+![Linkedin Badge](https://img.shields.io/badge/-pratikrk-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pratikrk/)
+![Gmail Badge](https://img.shields.io/badge/-pratikrk-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:pratikrk@gmail.com)
 ![Instagram Badge](https://img.shields.io/badge/-@_d_specialist-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/_d_specialist/)
 ![Website Badge](https://img.shields.io/badge/-harshgoel.me-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://harshgoel.me)
-![Twitter Badge](https://img.shields.io/badge/-@harshgoel05-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/harshgoel05)
+![Twitter Badge](https://img.shields.io/badge/-@pratikrk-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/pratikrk)
