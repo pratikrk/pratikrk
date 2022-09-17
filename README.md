@@ -1,3 +1,5 @@
+### नमस्ते (Namaste)🙏🏻, I am Pratik K. Rathod 👋
+
 <table>
   <td>
 <img src="https://raw.githubusercontent.com/helper-uttam/helper-uttam/main/header_.jpeg">
@@ -6,7 +8,7 @@
 <img  src="https://camo.githubusercontent.com/43d7ba8fee77106c83a549d2c7697466125a145743bcc783db096062aa0ab894/68747470733a2f2f632e74656e6f722e636f6d2f617a5a434a32597073476741414141692f70726f6772616d6d696e672e676966" alt=""gif>
     </td>
 </table>  
-### नमस्ते (Namaste)🙏🏻, I am Pratik K. Rathod 👋
+
 
 ![Pratik's github stats](https://github-readme-stats.vercel.app/api?username=pratikrk&count_private=true&show_icons=true&theme=dark)
 
