@@ -9,6 +9,7 @@
     </td>
 </table>  
 
+[![@pratikrk's Holopin board](https://holopin.me/pratikrk)](https://holopin.io/@pratikrk)
 
 ![Pratik's github stats](https://github-readme-stats.vercel.app/api?username=pratikrk&count_private=true&show_icons=true&theme=dark)
 
